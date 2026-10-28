@@ -4,7 +4,7 @@ Aplicação web desenvolvida com **Next.js**, **React8**, **TypeScript** e **Tai
 
 ## 🚀 Funcionalidades
 
-- ➕  Adicionar tarefas
+- ➕  Acidionar tarefas
 
 - ✅ Marcar tarefas como concluídas
 
@@ -48,7 +48,7 @@ Aplicação web desenvolvida com **Next.js**, **React8**, **TypeScript** e **Tai
 
 ### Instalação
 
-1. Clone o repositório:
+1. Clonar o repositorio:
 
    git clone [Lista-de-tarefas-react-next.js](https://github.com/Brendaramos116/Lista-de-tarefas-react-next.js)
 
