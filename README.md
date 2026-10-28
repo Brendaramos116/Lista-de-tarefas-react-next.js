@@ -1,37 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📝 Lista de Tarefas
 
-## Getting Started
+Aplicação web desenvolvida com **Next.js**, **React8**, **TypeScript** e **Tailwind CSS** para praticar conceitos fundamentais do desenvolvimento front-end.
 
-First, run the development server:
+## 🚀 Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ➕  Acidionar tarefas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ✅ Marcar tarefas como concluídas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🗑️ Excluir tarefas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 📊 Exibir a quantidade de tarefas concluídas
 
-## Learn More
+- 🛡️ Impedir a adição de tarefas vazias
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tecnologias
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js** -- framework para desenvolvimento de aplicações React. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **React** -- biblioteca para construção de interfaces.
 
-## Deploy on Vercel
+- **TypeScript** -- adiciona tipagem estática ao JavaScript.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Tailwind CSS** -- framework CSS para estilização da interface.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Lista-de-tarefas-react-next.js
+## 📚 Conceitos praticados
+
+- Gerenciamento de estado com useState
+
+- Manipulação de eventos com onChange e onSubmit
+
+- Renderização dinâmica de listas
+
+- Atualização de estados no React
+
+- Tipagem de dados com TypeScript
+
+- Estilização com Tailwind CSS
+
+## 💻 Como executar o projeto
+
+### Pré-requisitos
+
+- Node.js
+
+- npm -- (gerenciador de pacotes do Node.js)
+
+### Instalação
+
+1. Clonar o repositorio:
+
+   git clone [Lista-de-tarefas-react-next.js](https://github.com/Brendaramos116/Lista-de-tarefas-react-next.js)
+
+2. Entre na pasta do projeto:
+
+   cd teste-front
+
+3. Instale as dependências:
+
+   npm install
+
+4. Inicie o servidor de desenvolvimento:
+
+   npm run dev
+
+5. Acesse http://localhost:3000 no navegador.
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento front-end, com o objetivo de aprimorar meus conhecimentos em React, Next.js, TypeScript e lógica de programação.
+
+Desenvolvido com 💙 durante meus estudos em desenvolvimento front-end.
